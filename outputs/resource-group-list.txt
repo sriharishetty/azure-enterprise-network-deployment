@@ -1,0 +1,4 @@
+Name                   Location    Status
+---------------------  ----------  ---------
+rg-enterprise-network  eastus      Succeeded
+NetworkWatcherRG       eastus      Succeeded
