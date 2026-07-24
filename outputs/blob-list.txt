@@ -1,0 +1,3 @@
+Name                         Blob Type    Blob Tier    Length    Content Type    Last Modified              Snapshot
+---------------------------  -----------  -----------  --------  --------------  -------------------------  ----------
+infrastructure-inventory.md  BlockBlob    Hot          2063      text/markdown   2026-07-24T12:20:07+00:00
