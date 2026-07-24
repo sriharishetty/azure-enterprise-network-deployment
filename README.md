@@ -173,5 +173,3 @@ az storage blob list \
 # Author
 
 **Srihari Shetty**
-
-Cloud Engineer | Azure | DevOps | Infrastructure Automation<img width="1917" height="825" alt="image" src="https://github.com/user-attachments/assets/ade2dc22-35d7-4011-bcd6-954b8d004aac" />
